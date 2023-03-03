@@ -16,6 +16,10 @@ namespace TiposVarios
             char broken_bar = '\u00A6';
             Console.WriteLine(degre_sign);
             Console.WriteLine(broken_bar);
+            double real1 = 3.1416;
+            double real2 = 6.891;
+            Console.WriteLine(real1);
+            Console.WriteLine(real2);
 
 
         }
