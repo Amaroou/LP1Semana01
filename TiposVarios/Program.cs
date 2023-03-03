@@ -20,7 +20,10 @@ namespace TiposVarios
             double real2 = 6.891;
             Console.WriteLine(real1);
             Console.WriteLine(real2);
-
+            bool condição_verdadeira = true;
+            bool condição_falsa = false; 
+            Console.WriteLine(condição_verdadeira);
+            Console.WriteLine(condição_falsa);
 
         }
     }
